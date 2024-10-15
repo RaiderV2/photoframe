@@ -1,7 +1,7 @@
 
 PolkaDot [] dots=new PolkaDot[20];
 Tri [] tri=new Tri[20];
-Flower [] flower=new Flower[10];
+Flower [] flower =new Flower[10];
 Organizer album;
 FireWorks [] fireworks=new FireWorks[3];
 Poem p;
