@@ -23,8 +23,8 @@ void setup(){
     }
     p.setPosition(100,20);
 }
-white draw(){
-    background(0,0,0);
+void draw(){
+    background(1,3,2);
     for(int i=0;i<20;i++){
         dots[i].draw();
         tri[i].draw();
