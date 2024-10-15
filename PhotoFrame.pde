@@ -1,7 +1,7 @@
 
 PolkaDot [] dots=new PolkaDot[20];
 Tri [] tri=new Tri[20];
-Puppy [] puppy=new Puppy[10];
+Flower [] flower=new Flower[10];
 Organizer album;
 FireWorks [] fireworks=new FireWorks[3];
 Poem p;
@@ -10,7 +10,7 @@ void setup(){
     size(window.innerWidth,window.innerHeight);
     p=new Poem("ozymandius.txt");
     album=new Organizer();
-    for(int i=1;i<4;i++){
+    for(int i=0;i<3;i++){
         fireworks[i]=new FireWorks();
     }
     for(int i=0;i<20;i++){
