@@ -13,5 +13,10 @@
                  data/photo13.jpg,
                  data/photo14.jpg,
                  data/photo15.jpg,
-                 data/photo16.jpg";
+                 data/photo16.jpg,
+                 data/photo17.jpg,
+                 data/photo18.jpg,
+                 data/photo19.jpg,
+                 data/photo20.jpg,
+                 data/photo21.jpg";
 */
